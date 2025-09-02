@@ -29,14 +29,21 @@ public interface AttendantRepository extends JpaRepository<Attendant, Long> {
     List<Attendant> findByNameContainingIgnoreCase(String keyword);
 
     /**
-     * Check if an attendant exists by email address
-     * @param email Email address to check
+     * Find attendant by mobile number
+     * @param mobile Mobile number to search for
+     * @return Optional containing attendant if found
+     */
+    Optional<Attendant> findByMobile(String mobile);
+
+    /**
+     * Check if an attendant exists by email
+     * @param email Email to check
      * @return true if attendant exists, false otherwise
      */
     boolean existsByEmail(String email);
 
     /**
-     * Check if an attendant exists by mobile number
+     * Check if an attendant exists by mobile
      * @param mobile Mobile number to check
      * @return true if attendant exists, false otherwise
      */
