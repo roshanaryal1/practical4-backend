@@ -1,0 +1,10 @@
+com/otago/practical4backend/controller/ProductController.class
+com/otago/practical4backend/model/Attendant.class
+com/otago/practical4backend/Practical4BackendApplication.class
+com/otago/practical4backend/config/DataLoader.class
+com/otago/practical4backend/service/ProductService.class
+com/otago/practical4backend/controller/AttendantController.class
+com/otago/practical4backend/model/Product.class
+com/otago/practical4backend/repository/ProductRepository.class
+com/otago/practical4backend/repository/AttendantRepository.class
+com/otago/practical4backend/service/AttendantService.class
