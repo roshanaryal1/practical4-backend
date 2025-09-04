@@ -2,7 +2,7 @@
 
 **Course:** IX608001 Intermediate Application Development Concepts  
 **Institution:** Otago Polytechnic Auckland International Campus  
-**Student:** [Your Name Here]  
+**Student:** Roshan aryal 
 **Due Date:** Tuesday 2nd September 8:30am
 
 ## Project Overview
@@ -363,8 +363,8 @@ Possible improvements:
 
 ## Contact Information
 
-**Student:** [Your Name]  
-**Email:** [your.email@student.op.ac.nz]  
+**Student:** Roshan aryal
+**Email:** aryar2@op,ac,nz
 **Lecturer:** Tariq Khan  
 **Course:** IX608001 Intermediate Application Development Concepts
 
